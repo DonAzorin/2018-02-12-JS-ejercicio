@@ -1,0 +1,41 @@
+body{
+  background-attachment: fixed;
+  background-image: url(https://pre00.deviantart.net/c519/th/pre/f/2012/102/9/c/red_balloon_nyan_cat_wallpaper_by_sonyrootkit-d4vybuh.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Allan';
+  font-size: 20px;
+}
+button{
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: black;
+  font-family: 'Allan';
+  font-size: 25px;
+  padding: 10px;
+  position: absolute;
+}
+button:hover{
+  background-color: black;
+  color: white;
+  position: absolute;
+}
+span{
+  color: red;
+}
+a{
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: black;
+  font-size: 25px;
+  padding: 10px;
+  position: inherit;
+}
+a:hover {
+  background-color: black;
+  color: white;
+  position: inherit;
+}
