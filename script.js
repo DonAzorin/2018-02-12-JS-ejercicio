@@ -76,11 +76,11 @@ function fibonacci(form){
   document.getElementById('printFibo').innerHTML = printFibo;
 }
 
-function ordenar_lista (form){
-  var desordenado = form.digitos.value
-  console.log(desordenado);
-
-  var desordenado = desordenado.split(" ");
-
-  console.log(desordenado);
-}
+// function ordenar_lista (form){
+//   var desordenado = form.digitos.value
+//   console.log(desordenado);
+//
+//   var desordenado = desordenado.split(" ");
+//
+//   console.log(desordenado);
+// }
